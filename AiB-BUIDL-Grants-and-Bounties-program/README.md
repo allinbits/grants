@@ -104,7 +104,7 @@ We also need corresponding custom AtomOne orchestration software that validators
 
 We're flexible in what you choose to focus on, but we do have some clear rules for the grants we fund:
 
-- Work funded by All in Bits BUIDL Grants and Bounties program must align with AtomOne's proposed mission and scope.
+- Work funded by AiB BUIDL Grants and Bounties Program must align with AtomOne's proposed mission and scope.
 - Any output must be open source, transparent or otherwise freely available
 
 ### Eligibility
