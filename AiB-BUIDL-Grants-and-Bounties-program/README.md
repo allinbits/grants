@@ -27,7 +27,7 @@ Here are the list of focus areas the grantee can choose to contribute to, but ot
 - **Context**: The primary goal is to port the IBC module to Tendermint2 and to demonstrate compatibility between Tendermint1 and Tendermint2 chains.
 - **Resources**:
   - [https://github.com/cosmos/ibc-go](https://github.com/cosmos/ibc-go) (cosmos-sdk IBC)
-  - [https://github.com/gnolang/gno/tree/master/tm2](https://github.com/cosmos/ibc-go) (Tendermint2)
+  - [https://github.com/gnolang/gno/tree/master/tm2](https://github.com/gnolang/gno/tree/master/tm2) (Tendermint2)
 - **Expected Deliverables**:
   - Working proof of concept of Tendermint <> Tendermint2 IBC bridge
   - Survey of changes to Tendermint2 that affect IBC
