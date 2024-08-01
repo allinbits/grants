@@ -28,7 +28,7 @@ Here are the list of focus areas the grantee can choose to contribute to, but ot
 - **Resources**:
   - [https://github.com/cosmos/ibc-go](https://github.com/cosmos/ibc-go) (cosmos-sdk IBC)
   - [https://github.com/gnolang/gno/tree/master/tm2](https://github.com/gnolang/gno/tree/master/tm2) (Tendermint2)
-- **Expected Deliverables**:
+- **Expected Deliverables(one of)**:
   - Working proof of concept of Tendermint <> Tendermint2 IBC bridge
   - Survey of changes to Tendermint2 that affect IBC
   - IBC and relayer related tooling
@@ -50,7 +50,7 @@ We may remove the per-validator custom commission rate and rather apply a global
 
 In the end, what we want is a validator selection algorithm and hub/PSS/ICS reward algorithm that gives flexibility to validators for more permissionless validation of consumer shards, while also subsidizing the growth of tail validators, to ensure the sustainable growth of more or less equal capacity validators in the long run. The algorithm must also be practical in terms of computation.
 
-**Expected Deliverables**
+**Expected Deliverables (one of)**
 
 - An english written specification proposal
 - Crypto-economic justifications for above specification.
@@ -91,7 +91,7 @@ We also need corresponding custom AtomOne orchestration software that validators
 - [https://github.com/gnolang/gno/tree/master/tm2](https://github.com/gnolang/gno/tree/master/tm2)
 - [https://github.com/cometbft/cometbft/blob/main/UPGRADING.md#upgrading-from-tendermint-core](https://github.com/cometbft/cometbft/blob/main/UPGRADING.md#upgrading-from-tendermint-core)
 
-**Expected Deliverables**
+**Expected Deliverables(one of)**
 
 - PRs and improvements to [https://github.com/gnolang/gno/tree/master/tm2](https://github.com/gnolang/gno/tree/master/tm2)
 - Survey of changes to CometBFT that should be downstreamed to Tendermint2.
