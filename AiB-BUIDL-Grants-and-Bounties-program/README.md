@@ -2,7 +2,7 @@
 
 ## AiB BUIDL Grants and Bounties Program
 
-The objective of this program is to provide financial support to teams and individuals who are actively contributing to the development of the proposed AtomOne chain and related software. Grants under this program range between $3,000 - $8,000 per month depending on the application, with a streamlined submission and evaluation process that ensure quick decisions. The AiB BUIDL Grants and Bounties program is funded by All in Bits with the AiB core engineering team members serving as the reviewers of all grants within the program.
+The objective of this program is to provide financial support to teams and individuals who are actively contributing to the development of the proposed [AtomOne Chain](https://github.com/atomone-hub/genesis) and related software. Grants under this program range between $3,000 - $8,000 per month depending on the application, with a streamlined submission and evaluation process that ensure quick decisions. The AiB BUIDL Grants and Bounties program is funded by All in Bits with the AiB core engineering team members serving as the reviewers of all grants within the program.
 
 This program might be a good fit if **any** of the following apply to you:
 
