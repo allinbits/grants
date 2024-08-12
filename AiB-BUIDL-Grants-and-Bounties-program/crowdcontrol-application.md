@@ -1,29 +1,21 @@
 ## Name:
-
-CrowdControl 
-
-https://crowdcontrol.network/
-
+CrowdControl \
+https://crowdcontrol.network \
 https://github.com/DecentralCardGame
 
-
-**Project name (if applicable):**
-
+### Project name (if applicable):
 Cosmos C# integration + Unity
 
-**Email of main point of contact:**
-
+#### Email of main point of contact:
 patrick.wieth@googlemail.com
 
-**Individual/team members (GitHub handles, Twitter, websites….):**
+##### Individual/team members (GitHub handles, Twitter, websites….):
 
-https://github.com/patrickwieth
+https://github.com/patrickwieth \
+https://github.com/lxgr-linux \
+The CrowdControl Team is bigger, but these 2 individuals understand Cosmos-SDK and will work on this. \
 
-https://github.com/lxgr-linux
-
-The CrowdControl Team is bigger, but these 2 individuals understand Cosmos-SDK and will work on this.
-
-**Your chosen Area of focus for the grant (see ReadMe):**
+###### Your chosen Area of focus for the grant (see ReadMe):
 
 Game development infastructure
 
