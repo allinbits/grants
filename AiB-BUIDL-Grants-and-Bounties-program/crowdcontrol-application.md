@@ -1,6 +1,11 @@
 **Name:**
 
-CrowdControl
+CrowdControl 
+
+https://crowdcontrol.network/
+
+https://github.com/DecentralCardGame
+
 
 **Project name (if applicable):**
 
@@ -13,7 +18,9 @@ patrick.wieth@googlemail.com
 **Individual/team members (GitHub handles, Twitter, websites….):**
 
 https://github.com/patrickwieth
+
 https://github.com/lxgr-linux
+
 The CrowdControl Team is bigger, but these 2 individuals understand Cosmos-SDK and will work on this.
 
 **Your chosen Area of focus for the grant (see ReadMe):**
