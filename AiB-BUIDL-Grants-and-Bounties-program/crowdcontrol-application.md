@@ -52,6 +52,8 @@ We thought those integrations will be available anyway soon, so postponed this f
 
 For point 1 we are speaking of a month of work, this is not really hard to do. It is already working, generalizing it is not a big deal. Point 2 is more work, but can be done in a few months. Point 3 depends a little bit on the scope and it should be discussed with AtomOne core team how this makes the most sense, but it can be done in 6-12 months. Point 4 is a task for years. 
 
+In our opinion point 1 and 2 are no-brainers as the associated cost for an ecosystem like Cosmos is minimal, but the potential gain is enourmous. Point 3 and 4 are bigger scopes, which can be done, once AiB is convinced of our ability to solve it after seeing how we solve 1. and 2. These points are mostly added to show our grand vision.
+
 ### Disclosure of any conflicts of interest:
 
 None
