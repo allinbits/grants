@@ -1,21 +1,27 @@
 **Name:**
+
 CrowdControl
 
 **Project name (if applicable):**
+
 Cosmos C# integration + Unity
 
 **Email of main point of contact:**
+
 patrick.wieth@googlemail.com
 
 **Individual/team members (GitHub handles, Twitter, websites….):**
+
 https://github.com/patrickwieth
 https://github.com/lxgr-linux
 The CrowdControl Team is bigger, but these 2 individuals understand Cosmos-SDK and will work on this.
 
 **Your chosen Area of focus for the grant (see ReadMe):**
+
 Game development infastructure
 
 **A short description of what you are proposing (applies to all submissions):**
+
 We think games are a huge opportunity for blockchains to attract new users. This is the main reason why other blockchain ecosystems like Ethereum or Solana provide tools and integrations so that games can connect to the blockchain. See https://docs.metamask.io/wallet/how-to/use-sdk/gaming/unity/ and https://assetstore.unity.com/packages/decentralization/infrastructure/solana-sdk-for-unity-246931. 
 For Cosmos this is different, neither do these integrations exist nor a wallet for Unity/C#. For a gaming project this is a showstopper or to be more precise it is a showstopper for the decision to enter the Cosmos ecosystem.
 
@@ -35,6 +41,7 @@ We are using Cosmos SDK for years now and are building a game (https://crowdcont
 We thought those integrations will be available anyway soon, so postponed this for quite some time, but now we have realized, we must build this on our own. As a result, we have this public repository, which shows that our approach is already working: https://github.com/DecentralCardGame/cosmcs. However this is mostly tailored to our needs with our client and we would be happy to generalize this solution for all kinds of gaming projects and even go further and create a Unity plugin. In addition to that, we have skin in the game, as we are running a validator in Cosmos and are participating in the AtomOne launch to become a validator for AtomOne. The greater good of the Cosmos ecosystem is important to us, but sadly we become more and more skeptical of the Cosmos ecosystem and hope for AtomOne to reverse the current course. Also we have participated in the Hackatom VI category gaming and won the first prize.
 
 **Objectives, milestones, deliverables and overall time frame of your proposal:**
+
 1. C\# Integration for AtomOne. We have already build this for our needs (https://github.com/DecentralCardGame/cosmcs) but we want to generalize this, so everyone can use it. This enables C\# clients connected to the blockchain.
 2. Unity integration via C\# interface. We have already build this for our game, but we want to make it available to a broader audience.
 3. Unity plugin for AtomOne or ICS connected chains. This plugin allows game devs to easily connect to ICS blockchains just by adding the plugin, it comes with a wallet and the game devs only have to specify endpoints, chain-id. 
@@ -43,4 +50,5 @@ We thought those integrations will be available anyway soon, so postponed this f
 For point 1 we are speaking of a month of work, this is not really hard to do. It is already working, generalizing it is not a big deal. Point 2 is more work, but can be done in a few months. Point 3 depends a little bit on the scope and it should be discussed with AtomOne core team how this makes the most sense, but it can be done in 6-12 months. Point 4 is a task for years. 
 
 **Disclosure of any conflicts of interest:**
+
 None
