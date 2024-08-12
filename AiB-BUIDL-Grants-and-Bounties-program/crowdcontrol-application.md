@@ -54,6 +54,9 @@ For point 1 we are speaking of a month of work, this is not really hard to do. I
 
 In our opinion point 1 and 2 are no-brainers as the associated cost for an ecosystem like Cosmos is minimal, but the potential gain is enourmous. Point 3 and 4 are bigger scopes, which can be done, once AiB is convinced of our ability to solve it after seeing how we solve 1. and 2. These points are mostly added to show our grand vision.
 
+We have also recorded a short video. This was done for the AEZ quadratic funding, but also works well in this context here:
+https://www.youtube.com/watch?v=v75uQCBERf4
+
 ### Disclosure of any conflicts of interest:
 
 None
