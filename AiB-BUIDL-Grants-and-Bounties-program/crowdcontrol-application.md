@@ -45,11 +45,15 @@ We thought those integrations will be available anyway soon, so postponed this f
 
 ### Objectives, milestones, deliverables and overall time frame of your proposal
 
+To achieve proper unity integration / wallet with cosmos blockchains we created CosmCs, which is a Cosmos-sdk client library in C#, enabling not only unity blockchain apps, but also just plain c# ones. Since this only solves the general connection to cosmos blockchains, we also started to create cli-plugin-csharp-gen an ignite cli plugin for blockchain specific C# client code generation. This enables everybody developing a cosmos blockchain with ignite to generate a working c# client library with just a few clicks. Our vision is to furthermore create a unity plugin providing our CosmCs library, an integration with ignite and our ignite plugin and general quality of life improvements to make game-development with cosmos as seamless as possible.
+
+###### Milestones
 1. C\# Integration for AtomOne. We have already build this for our needs (https://github.com/DecentralCardGame/cosmcs) but we want to generalize this, so everyone can use it. This enables C\# clients connected to the blockchain.
 2. Unity integration via C\# interface. We have already build this for our game, but we want to make it available to a broader audience.
 3. Unity plugin for AtomOne or ICS connected chains. This plugin allows game devs to easily connect to ICS blockchains just by adding the plugin, it comes with a wallet and the game devs only have to specify endpoints, chain-id. 
 4. Gaming framework for self-developing games. This is our grand vision. Games which are owned by the community and developed by the community. Players can add items, story, maps etc. to the game, they can vote on the balance of the game and steer the direction. Game devs can use the framework to directly transform a game into user centric game / self-developing game.
 
+###### Time Frame
 For point 1 we are speaking of a month of work, this is not really hard to do. It is already working, generalizing it is not a big deal. Point 2 is more work, but can be done in a few months. Point 3 depends a little bit on the scope and it should be discussed with AtomOne core team how this makes the most sense, but it can be done in 6-12 months. Point 4 is a task for years. 
 
 In our opinion point 1 and 2 are no-brainers as the associated cost for an ecosystem like Cosmos is minimal, but the potential gain is enourmous. Point 3 and 4 are bigger scopes, which can be done, once AiB is convinced of our ability to solve it after seeing how we solve 1. and 2. These points are mostly added to show our grand vision.
