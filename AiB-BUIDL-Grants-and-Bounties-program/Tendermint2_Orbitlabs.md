@@ -10,16 +10,16 @@
 1. **Hoa Nguyen**
 
    - Role: Team Lead
-   - GitHub: @hoank101
+   - GitHub: https://github.com/hoank101
 
 2. **Tien Nguyen**
 
    - Role: Blockchain Engineer
-   - GitHub: @htiennv
+   - GitHub: https://github.com/htiennv
 
 3. **Tuan Tran**
    - Role: Blockchain Engineer
-   - GitHub: @TropicalDog17
+   - GitHub: https://github.com/TropicalDog17
 
 ## Area of Focus
 
