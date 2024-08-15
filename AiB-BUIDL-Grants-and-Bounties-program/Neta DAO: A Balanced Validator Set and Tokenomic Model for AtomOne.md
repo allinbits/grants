@@ -8,13 +8,17 @@
 ### 3. Contact Information
 #### 3.1 Main Point of Contact:
 Name: NETA DAO LLC
+
 E-Mail: netadao@protonmail.com
+
 Twitter Handle: @NETA_DAO
 
 #### 3.2 Team Members:
-Lil D (github.com/cosmonaught, x.com/CoiningReason)
-Cristiano (https://github.com/cristianojuno, x.com/cristiano_juno)
-Poroburu (https://github.com/poroburu, x.com/Poroburu)
+Lil D: [GitHub](https://github.com/cosmonaught), [X](https://x.com/CoiningReason)
+
+Cristiano: [GitHub](https://github.com/cristianojuno), [X](https://x.com/cristiano_juno)
+
+Poroburu [GitHub](https://github.com/poroburu), [X](https://x.com/Poroburu)
 
 ### 4. Chosen Area of Focus: AtomOne Validator Selection and ICS Crypto-Economics
 
@@ -29,9 +33,9 @@ Our approach to this grant will emphasize these values, with public weekly calls
 
 #### 6.2. Team Members’ Background and Expertise
 
-**Lil D** currently heads up the Neta DAO Academy, the educational arm of Neta DAO. He runs Coining Reason, a Neta DAO Academy research seminar on Web3 and philosophy (academy.netadao.zone, x.com/CoiningReason); is leading the development of FORK: The Journal of Interchain Theory and Politics, the first journal dedicated to the philosophical and political dimensions of the Interchain (and Web3 at large); organized Neta DAO’s legal incorporation; developed the Neta DAO Constitution (viewable here: https://daodao.zone/dao/juno1c5v6jkmre5xa9vf9aas6yxewc7aqmjy0rlkkyk4d88pnwuhclyhsrhhns6/proposals/A3); and organized and contributed to the Charter for the Juno Network. Trained as an artist, scholar, and psychoanalyst, his interests currently include the bridging of theory and practice that Web3 makes possible.
+**Lil D** currently heads up the Neta DAO Academy, the educational arm of Neta DAO. He runs [Coining Reason](https://academy.netadao.zone), a Neta DAO Academy research seminar on Web3 and philosophy; is leading the development of FORK: The Journal of Interchain Theory and Politics, the first journal dedicated to the philosophical and political dimensions of the Interchain (and Web3 at large); organized Neta DAO’s legal incorporation ([here](https://daodao.zone/dao/juno1c5v6jkmre5xa9vf9aas6yxewc7aqmjy0rlkkyk4d88pnwuhclyhsrhhns6/proposals/A1)); developed the Neta DAO Constitution ([here](https://daodao.zone/dao/juno1c5v6jkmre5xa9vf9aas6yxewc7aqmjy0rlkkyk4d88pnwuhclyhsrhhns6/proposals/A3)); and organized and contributed to the Charter for the Juno Network ([here](https://www.mintscan.io/juno/proposals/319)). Trained as an artist, scholar, and psychoanalyst, his interests currently include the bridging of theory and practice that Web3 makes possible.
 
-**Cristiano** has served on the Operations Department of the Juno Network, where he worked intensely on the validator program (Link to an article), created the first-ever budget for Juno Network (Link to the spreadsheet), and pursued other issues related to chain maintenance and network growth. Most recently he has joined Neta DAO and will be serving on Neta DAO’s Treasury multisig. He is currently employed by a regional bank where he advises corporate customers, analyses balance sheets, and makes credit decisions. In this capacity he specializes in start-ups and has also negotiated equity investments and subordinated loans. His interests in Web3 include tokenomic systems, validator and governance issues.
+**Cristiano** has served on the Operations Department of the Juno Network, where he worked intensely on the validator program ([here](https://hackmd.io/NnOYoTERTgaJIcFsn5ZcCA)), created the first-ever budget for Juno Network ([here](https://docs.google.com/spreadsheets/d/1v-Vx-7zDri1zLdCgEKyF3P85YylLRJKEykcUrRcDTzM/edit?gid=205656529#gid=205656529)), and pursued other issues related to chain maintenance and network growth. Most recently he has joined Neta DAO and will be serving on Neta DAO’s Treasury multisig. He is currently employed by a regional bank where he advises corporate customers, analyses balance sheets, and makes credit decisions. In this capacity he specializes in start-ups and has also negotiated equity investments and subordinated loans. His interests in Web3 include tokenomic systems, validator and governance issues.
 
 **Poroburu** is a technical consultant to Neta DAO and runs Neta DAO’s bare metal validators on Akash, Jackal, and Juno, as well as his own validators on Nomic and Passage. He served on the Development Department of the Juno Network, and most recently he built [pumpfunosmo](https://github.com/poroburu/pumpdotfunosmo), a proof of concept tool that enables any-non Cosmos low liquidity tokens to be permissionlessly bridged on Wormhole and then listed on Osmosis. He has made contributions on GitHub to Juno, Horcrux, and Dao Dao, and he has attended Cosmos developer events in Toronto, New York and Nashville. He is interested in deepening his understanding of both the SDK and smart contracts.
 
@@ -62,6 +66,9 @@ If All in Bits has flexibility on payment terms that could include payments in c
 We thank you for your time and hope to be working with you soon.
 
 Neta DAO
+
 Lil D
+
 Cristiano
+
 Poroburu
