@@ -14,7 +14,7 @@ E-Mail: netadao@protonmail.com
 Twitter Handle: @NETA_DAO
 
 #### 3.2 Team Members:
-Lil D: [GitHub](https://github.com/cosmonaught), [X](https://x.com/CoiningReason)
+Lil D: [GitHub](https://github.com/cosmonought), [X](https://x.com/CoiningReason)
 
 Cristiano: [GitHub](https://github.com/cristianojuno), [X](https://x.com/cristiano_juno)
 
