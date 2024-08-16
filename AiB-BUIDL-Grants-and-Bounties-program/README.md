@@ -2,7 +2,7 @@
 
 ## AiB BUIDL Grants and Bounties Program
 
-The objective of this program is to provide financial support to teams and individuals who are actively contributing to the development of the proposed AtomOne chain and related software. Grants under this program range between $3,000 - $8,000 per month depending on the application, with a streamlined submission and evaluation process that ensure quick decisions. The AiB BUIDL Grants and Bounties program is funded by All in Bits with the AiB core engineering team members serving as the reviewers of all grants within the program.
+The objective of this program is to provide financial support to teams and individuals who are actively contributing to the development of the proposed [AtomOne Chain](https://github.com/atomone-hub/genesis) and related software. Grants under this program range between $3,000 - $8,000 per month depending on the application, with a streamlined submission and evaluation process that ensure quick decisions. The AiB BUIDL Grants and Bounties program is funded by All in Bits with the AiB core engineering team members serving as the reviewers of all grants within the program.
 
 This program might be a good fit if **any** of the following apply to you:
 
@@ -123,6 +123,9 @@ We want the funding and grant process to be as transparent and easy as possible,
 
 The AiB BUIDL Grants and Bounties program has a hard limit of **$3,000** to **$8,000** per month, but if you anticipate needing more to get to the finish line, you have options.
 
+AiB BUIDL Grants and Bounties program end is individual for each focus area and will be communicated to applicants upon grant contracts. The outcome of the grant will be reviewed and scored prior to the Program conclusion.
+The minimum duration of the grant program is 2 months. The grant agreement is subject to extension based on the outcome of the grantee’s contribution.
+
 ---
 
 ## Application for AiB BUIDL Grants and Bounties Program:
@@ -154,16 +157,6 @@ To start the process, you’ll need to:
 - Email us at grants@allinbits.com and we’ll get in touch
 - Fulfill the KYC requirements, if/when your submission gets approved.
 
-## Key Dates
-
-- July 30th - AiB BUIDL Grants and Bounties Program application goes live
-- August 15th: Grants Application Submission deadline
-- August 15th - August 29th : Review and evaluation period . We expect the ‘pre-approved’ applicants to be ready to provide their documents for KYC checks.
-- September 5th: First cycle of grantees to be announced
-- September 9th: AiB BUIDL Grants and Bounties program begins
-- September 10th: First Town Hall on the program, 6pm UTC. Calendar Link (Date subject to confirmation near to the time)
-- AiB BUIDL Grants and Bounties program end is individual for each focus area and will be communicated to applicants upon grant contracts. The outcome of the grant will be reviewed and scored prior to the Program conclusion.
-- The minimum duration of the grant program is 2 months. The grant agreement is subject to extension based on the outcome of the grantee’s contribution.
 
 ### What to expect after submitting the grant application?
 
