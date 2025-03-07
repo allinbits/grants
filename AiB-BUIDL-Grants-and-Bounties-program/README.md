@@ -18,6 +18,16 @@ Please note our [Terms and Conditions](https://docs.google.com/document/d/1WCZSL
 
 ---
 
+## Current Bounty Areas
+
+### PHOTON Community Bounty
+
+**Dates**: March 7, 2025 - TBD
+
+**Rewards**: $200 - $10,000 USD per submission
+
+We invite the AtomOne engineering community to analyze the security of the upcoming PHOTON module. Full details of the program are available [here](PHOTON-Community-Bounty.md).
+
 ## Areas of focus for grants:
 
 Here are the list of focus areas the grantee can choose to contribute to, but other contributions not mentioned here may be worked on as well:
