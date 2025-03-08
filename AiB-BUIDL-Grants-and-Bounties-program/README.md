@@ -1,4 +1,4 @@
-# ReadME: AiB BUIDL Grants and Bounties Program
+# AiB BUIDL Grants and Bounties Program
 
 ## AiB BUIDL Grants and Bounties Program
 
@@ -144,7 +144,7 @@ The minimum duration of the grant program is 2 months. The grant agreement is su
 - Project name (if applicable)
 - Email of main point of contact
 - Individual/team members (GitHub handles, Twitter, websites….)
-- Your chosen Area of focus for the grant (see ReadMe)
+- Your chosen Area of focus for the grant
 - A short description of what you are proposing (applies to all submissions)
 - Why are you best suited/what is your background and previous projects that you have worked on (or team’s if applicable) (applies to all submissions)
 - Objectives, milestones, deliverables and overall time frame of your proposal
