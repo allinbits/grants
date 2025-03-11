@@ -4,7 +4,7 @@ In preparation for the deployment of the Photon module to the AtomOne blockchain
 
 ## What is PHOTON?
 
-The PHOTON token is the sole fee token of AtomOne. The only way to get PHOTONs is to burn ATONEs, with a one-way burn that is not reversible at the protocol level. This functionality is enshrined in Article 3 Section 5 of the [AtomOne Constitution](https://github.com/atomone-hub/genesis/blob/main/CONSTITUTION.md#section-5-the-photon-token). You can read more about the design in this [Architecture Decision Record](https://github.com/atomone-hub/atomone/blob/main/docs/architecture/adr-002-photon-token.md).
+The PHOTON token is the sole fee token of AtomOne. The only way to mint PHOTONs is to burn ATONEs, with a one-way burn that is not reversible at the protocol level. This functionality is enshrined in Article 3 Section 5 of the [AtomOne Constitution](https://github.com/atomone-hub/genesis/blob/main/CONSTITUTION.md#section-5-the-photon-token). You can read more about the design in this [Architecture Decision Record](https://github.com/atomone-hub/atomone/blob/main/docs/architecture/adr-002-photon-token.md).
 
 ## What are the Rewards?
 
