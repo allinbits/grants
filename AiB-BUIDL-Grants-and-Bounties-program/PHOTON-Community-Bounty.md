@@ -1,6 +1,6 @@
 # Photon Community Bounty
 
-In preparation for the deployment of the Photon module to the AtomOne blockchain, All in Bits (AiB) is sponsoring a security bounty program for the AtomOne community. As we value the expertise of our developer community, we invite them to review the Photon module and report their findings. In conjunction with ongoing third-party security audits, we believe security bounty programs like this will provide the most secure experience to AtomOne users and integrators.
+In preparation for the potential deployment of the Photon module to the AtomOne blockchain,  pending AtomOne governance vote, All in Bits (AiB) is sponsoring a security bounty program for the AtomOne community. As we value the expertise of our developer community, we invite them to review the Photon module and report their findings. In conjunction with ongoing third-party security audits, we believe security bounty programs like this will provide the most secure experience to AtomOne users and integrators.
 
 ## What is PHOTON?
 
