@@ -1,4 +1,4 @@
-# ReadME: AiB BUIDL Grants and Bounties Program
+# AiB BUIDL Grants and Bounties Program
 
 ## AiB BUIDL Grants and Bounties Program
 
@@ -17,6 +17,16 @@ This program’s mission is to encourage the members of the AiB contributor comm
 Please note our [Terms and Conditions](https://docs.google.com/document/d/1WCZSLTYcaOHpLs-nxBD5SN1uLTuqhRPb7a9O7y-08mQ/edit) for the grant prior to application.
 
 ---
+
+## Current Bounty Areas
+
+### PHOTON Community Bounty
+
+**Dates**: March 12, 2025 - TBD
+
+**Rewards**: $200 - $10,000 USD per submission
+
+We invite the AtomOne engineering community to analyze the security of the upcoming PHOTON module. Full details of the program are available [here](PHOTON-Community-Bounty.md).
 
 ## Areas of focus for grants:
 
@@ -134,7 +144,7 @@ The minimum duration of the grant program is 2 months. The grant agreement is su
 - Project name (if applicable)
 - Email of main point of contact
 - Individual/team members (GitHub handles, Twitter, websites….)
-- Your chosen Area of focus for the grant (see ReadMe)
+- Your chosen Area of focus for the grant
 - A short description of what you are proposing (applies to all submissions)
 - Why are you best suited/what is your background and previous projects that you have worked on (or team’s if applicable) (applies to all submissions)
 - Objectives, milestones, deliverables and overall time frame of your proposal
