@@ -22,7 +22,7 @@ Please note our [Terms and Conditions](https://docs.google.com/document/d/1WCZSL
 
 ### PHOTON Community Bounty
 
-**Dates**: March 7, 2025 - TBD
+**Dates**: March 12, 2025 - TBD
 
 **Rewards**: $200 - $10,000 USD per submission
 
